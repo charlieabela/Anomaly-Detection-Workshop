@@ -32,7 +32,7 @@ jupyter lab
 ```
 notebooks/   Jupyter/Colab notebooks
 slides/      Lecture slide deck (PDF/PPTX)
-docs/        Detailed notes & hand‑outs
+docs/        Detailed notes & Reflection sheet
 ```
 
 ## Licence
