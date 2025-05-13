@@ -6,7 +6,7 @@ Comprehensive 2‑hour MSc workshop split into three hands‑on notebooks:
 |----------|--------|
 | 01 – Statistical Foundations | Robust Z‑score, Mahalanobis distance |
 | 02 – Unsupervised Methods | Isolation Forest, One‑Class SVM, Autoencoder |
-| 03 - Isolation Forest |
+| 03 - Isolation Forest | In more depth
 | 04 – Explainability | SHAP on IF & Autoencoder |
 
 Slides and expanded lecture notes are included under **/slides** and **/docs**.
