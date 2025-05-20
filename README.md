@@ -33,7 +33,7 @@ jupyter lab
 
 ```
 notebooks/   Jupyter/Colab notebooks
-slides/      Lecture slide deck (PDF/PPTX)
+slides/      Lecture slide deck (PDF)
 docs/        Detailed notes & Reflection sheet
 ```
 
