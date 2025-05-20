@@ -8,6 +8,8 @@ Comprehensive 2‑hour MSc workshop split into three hands‑on notebooks:
 | 02 – Unsupervised Methods | Isolation Forest, One‑Class SVM, Autoencoder |
 | 03 - Isolation Forest | In more depth
 | 04 – Explainability | SHAP on IF & Autoencoder |
+| 05 – Dynamic Data | ARIMA & LSTM & LSTM Autoencoder |
+| 06 – Graph-based Data | Statistical Approaches & Graph Embeddings & GNNs |
 
 Slides and expanded lecture notes are included under **/slides** and **/docs**.
 
