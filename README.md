@@ -1,6 +1,6 @@
 # Anomaly Detection Workshop
 
-Comprehensive 2‑hour MSc workshop split into three hands‑on notebooks:
+Comprehensive 4‑hour workshop split into six hands‑on notebooks:
 
 | Notebook | Topics |
 |----------|--------|
