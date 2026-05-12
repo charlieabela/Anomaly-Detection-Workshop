@@ -39,4 +39,4 @@ docs/        Detailed notes & Reflection sheet
 
 ## Licence
 
-MIT © 2025 Charlie — Senior Lecturer
+MIT © 2025 Charlie — Associate Professor
