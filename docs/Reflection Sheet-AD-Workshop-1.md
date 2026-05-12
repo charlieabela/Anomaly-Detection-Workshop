@@ -4,7 +4,7 @@
 **Name(s):** ______________________________________  **Date:** ____________
 
 Instructions  
-*Work individually or in pairs. Answer concisely (bullet points are fine). Save this file (or export to PDF) and email it to Charlie by **18:00 CET tomorrow**. Feel free to reference code, figures, or metrics from your notebook runs.*
+*Work individually or in pairs. Answer concisely (bullet points are fine). Save this file (or export to PDF) and email it to Charlie by **26th May @ 18:00 CET**. Feel free to reference code, figures, or metrics from your notebook runs.*
 
 ---
 
