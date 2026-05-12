@@ -51,7 +51,5 @@ If you were to deploy one of these models in a production environment, what thre
 15. **Key Takeaway**
 What was the most surprising or valuable insight you gained from implementing these anomaly detection techniques? (≤3 sentences)
 
-<div style="text-align: center">⁂</div>
-
 [^1]: Reflection_Sheet_AD_Workshop-2.md
 
